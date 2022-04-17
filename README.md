@@ -1,2 +1,2 @@
 # tailwindcss
-A landing page using tailwind css
+A Hero Component using Tailwind CSS
